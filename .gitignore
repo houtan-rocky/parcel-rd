@@ -1,0 +1,18 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/dist
+
+# Cache and logs
+/.cache
+/.parcel-cache
+/.parcel-logs
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
